@@ -1,0 +1,37 @@
+project_id = "tjfatnvrzcuacmdcawji"
+
+[functions.send-otp]
+verify_jwt = false
+
+[functions.verify-otp]
+verify_jwt = false
+
+[functions.parse-resume]
+verify_jwt = true
+
+[functions.generate-recommendations]
+verify_jwt = true
+
+[functions.calculate-ats-score]
+verify_jwt = true
+
+[functions.realtime-interview]
+verify_jwt = true
+
+[functions.fetch-jsearch-jobs]
+verify_jwt = true
+
+[functions.generate-test-questions]
+verify_jwt = true
+
+[functions.fetch-placement-resources]
+verify_jwt = true
+
+[functions.student-chatbot]
+verify_jwt = true
+
+[functions.parse-student-csv]
+verify_jwt = true
+
+[functions.send-notification-email]
+verify_jwt = true
