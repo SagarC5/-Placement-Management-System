@@ -38,6 +38,9 @@ This system solves these issues with a role-based, structured platform.
 
 - View feedback
 
+<img src="images/sd1.png" width="600" height="500">
+
+
 ### 👩‍🏫 Teacher
 
 - Post announcements
@@ -47,6 +50,7 @@ This system solves these issues with a role-based, structured platform.
 - Monitor student progress
 
 - Conduct tests
+<img src="images/td1.png" width="600" height="500">
 
 ### 🧑‍💼 TPO (Training & Placement Officer)
 
@@ -59,6 +63,7 @@ This system solves these issues with a role-based, structured platform.
 - Access analytics dashboard
 
 - Manage announcements
+<img src="images/tp1.png" width="600" height="500">
 
 ## 🛠️ Tech Stack
 
